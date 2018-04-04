@@ -6,6 +6,6 @@
 </head>
 <body>
 <h1>Belajar Tag Gambar</h1>
-<img src="D:\KULIAH\ADJ\Screenshot(12).jpg" />
+<img src="D:\KULIAH\ADJ\Screenshot12.png" />
 </body>
 </html>
