@@ -1,11 +1,3 @@
 # ADMINISTRASI-DESAIN-JARINGAN
-<!DOCTYPE html>
-<html>
-<head>
-<title>Tutorial MiniNet</title>
-</head>
-<body>
-<h1>Belajar Tag Gambar</h1>
-<img src="D:\KULIAH\ADJ\Screenshot12.png" />
-</body>
-</html>
+<h1> Tutorial MiniNET </h1>
+<p> Kli ini kita akan belajar cara meng-<i>install</i> <b> MiniNet</b>
